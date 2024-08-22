@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class PrincipalComBusca {
 
 	public static void main(String[] args) throws IOException, InterruptedException {
-		// Integrando com API
+		// Integrando com API e usando classe Scanner.
 		Scanner leitura = new Scanner(System.in);
 
 		// Implementando uma busca dinamica pelo teclado com a classe Scanner.
